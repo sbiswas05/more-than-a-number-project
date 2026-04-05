@@ -15,7 +15,7 @@ const Index = () => (
       </p>
       <div className="flex flex-col sm:flex-row gap-4">
         <Button asChild size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90 font-medium text-base px-8">
-          <a href="https://forms.google.com/placeholder" target="_blank" rel="noopener noreferrer">
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVbEavUIB4zBCEprl_sy7cTcNbJI85u0k1uGzN-8xK2BZq0Q/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">
             Take Our Survey
           </a>
         </Button>
