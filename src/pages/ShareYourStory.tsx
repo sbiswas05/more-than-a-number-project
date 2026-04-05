@@ -19,7 +19,7 @@ const ShareYourStory = () => (
     {/* Google Form embed */}
     <div className="rounded-lg border border-border overflow-hidden bg-card">
       <iframe
-        src="https://docs.google.com/forms/d/e/PLACEHOLDER/viewform?embedded=true"
+        src="https://docs.google.com/forms/d/e/1FAIpQLSdVbEavUIB4zBCEprl_sy7cTcNbJI85u0k1uGzN-8xK2BZq0Q/viewform?embedded=true"
         width="100%"
         height="800"
         className="border-0 w-full"
