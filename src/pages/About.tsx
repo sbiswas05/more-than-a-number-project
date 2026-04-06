@@ -11,21 +11,25 @@ const About = () => (
         feminist issue, a public health issue, and a deeply personal one.
       </p>
       <p>
-        This project links scholarship with praxis. Drawing on the work of theorists like Marilyn Wann, 
-        Sabrina Strings, Susan Bordo, and Rebecca Puhl, we've grounded our activism in feminist, queer, 
-        and critical race theory. Our goal is to create tangible change — not just to document the problem 
-        of weight bias in healthcare, but to intervene: by collecting student stories, publicizing data, 
-        and building a resource that challenges how we think about bodies and medicine.
+        This project links scholarship with praxis. Drawing on course theorists including Sandra Harding 
+        on science as a social practice, Susan Bordo on gendered embodiment, Rosemarie Garland-Thomson 
+        on disability and bodily norms, Sander Gilman on racialized bodies, George Yancy on embodied 
+        perception, and bell hooks on feminist politics — alongside Marilyn Wann's foundational fat 
+        studies work and Sabrina Strings' history of anti-fat racism — we've grounded our activism in 
+        feminist, queer, and critical race theory.
       </p>
       <p>
-        As Wann writes, "Fat studies is a radical field, in the sense that it goes to the root of 
-        weight-related belief systems." We take that seriously. This project is part research, part 
-        advocacy, and part community building — an intervention designed to shift the conversation 
-        at UMD and beyond.
+        Our goal is to create tangible change — not just to document the problem of weight bias in 
+        healthcare, but to intervene: by collecting student stories, publicizing data, and building 
+        a resource that challenges how we think about bodies and medicine. As Wann writes, "Fat studies 
+        is a radical field, in the sense that it goes to the root of weight-related belief systems." 
+        We take that seriously.
       </p>
       <p>
-        If this site resonated with you, share it. If you have a story, tell it. And if you're a 
-        provider, we hope this gives you something to think about.
+        This project is part research, part advocacy, and part community building — an intervention 
+        designed to shift the conversation at UMD and beyond. If this site resonated with you, share it. 
+        If you have a story, tell it. And if you're a provider, we hope this gives you something to 
+        think about.
       </p>
     </div>
 
