@@ -11,15 +11,43 @@ const About = () => (
         feminist issue, a public health issue, and a deeply personal one.
       </p>
       <p>
-        This project is part research, part advocacy, and part community building. We're not doctors 
-        or policy experts — we're students who've been reading, listening, and thinking critically about 
-        what it means to live in a body that the healthcare system wasn't designed to care for.
+        This project links scholarship with praxis. Drawing on the work of theorists like Marilyn Wann, 
+        Sabrina Strings, Susan Bordo, and Rebecca Puhl, we've grounded our activism in feminist, queer, 
+        and critical race theory. Our goal is to create tangible change — not just to document the problem 
+        of weight bias in healthcare, but to intervene: by collecting student stories, publicizing data, 
+        and building a resource that challenges how we think about bodies and medicine.
+      </p>
+      <p>
+        As Wann writes, "Fat studies is a radical field, in the sense that it goes to the root of 
+        weight-related belief systems." We take that seriously. This project is part research, part 
+        advocacy, and part community building — an intervention designed to shift the conversation 
+        at UMD and beyond.
       </p>
       <p>
         If this site resonated with you, share it. If you have a story, tell it. And if you're a 
         provider, we hope this gives you something to think about.
       </p>
     </div>
+
+    {/* Discussion Questions */}
+    <section className="mt-16 border-t border-border pt-10">
+      <h2 className="font-serif text-xl font-semibold text-foreground mb-6">
+        Discussion Questions
+      </h2>
+      <ol className="space-y-4 text-lg text-foreground/85 leading-relaxed list-decimal list-inside">
+        <li>
+          How does the medicalization of body size — through tools like BMI — reinforce systems of power 
+          based on race, gender, and class? What would healthcare look like if weight were treated as 
+          neutral human variation?
+        </li>
+        <li>
+          Marilyn Wann argues that "weight discrimination will continue to thrive so long as efforts to 
+          end it focus on changing people's bodies rather than changing people's minds." What kinds of 
+          interventions — in medical education, public policy, or campus life — could begin to shift 
+          this paradigm?
+        </li>
+      </ol>
+    </section>
   </div>
 );
 

@@ -29,10 +29,10 @@ const Index = () => (
     <section className="bg-card py-16 px-6">
       <blockquote className="max-w-3xl mx-auto text-center">
         <p className="font-serif text-2xl md:text-3xl text-foreground italic leading-relaxed">
-          "The greatest barrier to healthcare isn't access — it's bias."
+          "The only thing that anyone can diagnose, with any certainty, by looking at a fat person, is their own level of stereotype and prejudice toward fat people."
         </p>
         <cite className="block mt-4 text-sm text-muted-foreground not-italic">
-          — Adapted from weight stigma research
+          — Marilyn Wann, <em>The Fat Studies Reader</em> (2009)
         </cite>
       </blockquote>
     </section>
@@ -57,6 +57,18 @@ const Index = () => (
           </Link>
         ))}
       </div>
+    </section>
+
+    {/* Second quote */}
+    <section className="bg-card py-12 px-6">
+      <blockquote className="max-w-3xl mx-auto text-center">
+        <p className="font-serif text-xl md:text-2xl text-foreground italic leading-relaxed">
+          "If we cannot feel at home in our own skins, where else are we supposed to go?"
+        </p>
+        <cite className="block mt-4 text-sm text-muted-foreground not-italic">
+          — Marilyn Wann
+        </cite>
+      </blockquote>
     </section>
   </div>
 );
