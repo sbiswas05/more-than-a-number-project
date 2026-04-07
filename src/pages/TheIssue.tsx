@@ -14,23 +14,14 @@ const TheIssue = () => (
 
     <div className="space-y-6 text-foreground/85 leading-relaxed text-lg mb-12">
       <p>
-        For millions of people, going to the doctor is an exercise in being reduced to a number. 
-        Regardless of symptoms, concerns, or medical history, the conversation circles back to weight. 
-        Patients report having broken bones, chronic pain, and respiratory issues dismissed with a single 
-        recommendation: "lose weight."
+        For thousands of people, going to the doctor can feel like a burden, an exercise where their worth is reduced to a number. Conversations about symptoms, health concerns and medical history all circle back to a single topic, their weight. Reports of chronic pain, respiratory issues or even broken bones are dismissed with a single “fix”, to lose weight. 
+
       </p>
       <p>
-        This isn't anecdotal. Studies consistently show that healthcare providers hold strong implicit 
-        and explicit biases against people in larger bodies. These biases lead to delayed diagnoses, 
-        inadequate treatment, and a fundamental breakdown in the patient-provider relationship. Patients 
-        stop going to the doctor — not because they don't care about their health, but because they've 
-        learned that the system doesn't care about them.
+        Studies have consistently shown that there are strong implicit and explicit biases that healthcare professionals show against people in larger bodies. These biases can slow down diagnoses, lead to inadequate treatment and cause a breakdown of trust in patient-provider relationships. Patients hesitate more and more to see a doctor, not because they don’t care about their health but rather because it feels like the healthcare system doesn’t care about them. 
       </p>
       <p>
-        Fatphobia in medical settings is not just rude behavior. It is a structural problem embedded 
-        in medical education, clinical guidelines, and the culture of healthcare itself. When weight 
-        is treated as a moral failing rather than a complex, multifactorial trait, everyone suffers — 
-        but some far more than others.
+        Fatphobia is not just rude behavior when placed in a medical environment. It becomes a structural problem which stems from things like medical education, clinical guidelines, and healthcare culture itself. When weight is treated as a moral failing instead of a complex problem with countless factors, everyone suffers from it, but some far more than others. 
       </p>
     </div>
 
@@ -49,18 +40,12 @@ const TheIssue = () => (
 
     <div className="space-y-6 text-foreground/85 leading-relaxed text-lg mb-12">
       <p>
-        As Wann documents, physicians view fat patients negatively and avoid spending time with them 
-        (Hebl & Xu, 2001). Even doctors and researchers who specialize in "obesity" harbor stereotypes 
-        of fat people as "lazy, stupid, and worthless" (Schwartz et al., 2003). Fat women are a third 
-        less likely to receive breast exams, Pap smears, or gynecological exams — not because they 
-        don't seek care, but because providers are reluctant to engage with larger bodies (Fontaine et al., 1998).
+        As author and activist Marilyn Wann documents, many physicians view overweight patients with a more negative attitude and avoid spending as much time with them compared to non-overweight patients. (Hebl & Xu, 2001). Even specialists doctors and researchers who have a focus on obesity often still harbor negative stereotypes in regards to large bodied people. Obese women (BMI of 35) are around 25% to 39% less likely to receive things like breast exams, Pap smears or gynecological exams compared to non-obese women (BMI of 25) according to a study “Body Weight and Health Care Among Women in the General Population” (Fontaine et al., 1998).
+
       </p>
       <p>
-        The consequences are severe: fat patients avoid doctors because of "disrespectful treatment, 
-        embarrassment at being weighed, negative attitudes of providers, unsolicited advice to lose 
-        weight, and medical equipment that was too small to be functional" (Amy et al., 2006). In one 
-        case Wann cites, a fat man in London was told for an entire decade that his abdominal pain was 
-        due to his weight — until doctors finally scanned him and removed a fifty-five-pound malignant tumor.
+        The consequences are becoming increasingly severe, fat patients are more likely to avoid doctors due to the disrespectful or embarrassing treatment they receive as well as due to the negative attitude many providers show. In an extreme case cited by Wann, an overweight man in London was told for an entire decade that his abdominal pain was caused exclusively by his weight, until doctors finally did a scan on him, locating and removing a 55 lb malignant tumor (Wann, 2009).
+
       </p>
     </div>
 

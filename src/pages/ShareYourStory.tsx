@@ -5,7 +5,7 @@ const ShareYourStory = () => (
     </h1>
     <p className="text-lg text-foreground/85 leading-relaxed mb-4">
       Have you ever felt judged, dismissed, or mistreated by a healthcare provider because of your 
-      weight? You're not alone — and your experience matters.
+      weight? You're not alone and your experience matters.
     </p>
     <p className="text-lg text-foreground/85 leading-relaxed mb-4">
       We're collecting anonymous stories from UMD students about weight bias in medical settings. 
