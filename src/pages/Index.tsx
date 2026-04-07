@@ -10,7 +10,7 @@ const Index = () => (
       </h1>
       <p className="text-lg md:text-xl text-muted-foreground leading-relaxed max-w-2xl mb-10">
         Weight bias in healthcare is a documented, systemic problem that affects millions of people. 
-        Patients are dismissed, misdiagnosed, and driven away from the care they need — all because 
+        Patients are dismissed, misdiagnosed, and driven away from the care they need, because 
         of the number on a scale. It's time to talk about it.
       </p>
       <div className="flex flex-col sm:flex-row gap-4">
